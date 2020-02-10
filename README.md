@@ -1,5 +1,5 @@
 # Messenger-bot-AQA
-![demo](/assets/application_demo.png)
+![demo](/assets/application_demo.png =350x)
 Messenger bot that returns you the aesthetic score of your image when you send it an image.
 ```
 ├── Messenger-bot-AQA
