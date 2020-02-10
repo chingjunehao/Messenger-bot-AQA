@@ -1,0 +1,18 @@
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.2.0+cpu
+torchvision==0.4.0+cpu
+torch-lr-finder==0.0.1
+requests
+pillow==4.1.1
+Flask==1.0.2
+gunicorn>=19.6.0    
+Flask-Babel>=0.11.1
+Flask-Cors>=2.1.2
+Flask-Login>=0.4.0
+Flask-Mail>=0.9.1
+Flask-OpenID>=1.2.5
+Flask-SQLAlchemy>=2.1
+Flask-Uploads>=0.2.1
+Flask-WhooshAlchemy>=0.56
+Flask-WTF>=0.14.2
